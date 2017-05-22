@@ -1,3 +1,3 @@
 # ohaikthxbai.github.io
 
-README: this will me my main website some day
+README: this will be my main website some day
