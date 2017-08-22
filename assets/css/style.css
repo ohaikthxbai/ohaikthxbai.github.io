@@ -1,9 +1,16 @@
+body {
+    min-height: 2000px;
+}
+
+.navbar {
+    height: 60px;
+}
 .carousel-container {
-    margin-bottom: 50px;
+    margin-top: 60px;
 }
-.translucent {
-    opacity: .7;
-}
-.carousel-caption {
-    color:black;
+
+.footer {
+    line-height: 30px;
+    height: 30px;
+    color: white;
 }
