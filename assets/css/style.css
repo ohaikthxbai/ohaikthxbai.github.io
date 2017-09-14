@@ -12,6 +12,10 @@ nav .brand-logo {
   background-color: #3f507e;
 }
 
+.txt-color {
+  color: #737aa6;
+}
+
 p {
   line-height: 2rem;
 }
