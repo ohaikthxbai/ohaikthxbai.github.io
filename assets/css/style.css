@@ -8,12 +8,16 @@ nav .brand-logo {
   background-color: #737aa6;
 }
 
-.card .card-title {
+.card .card-title{
   font-size: 20px;
 }
 
 .btn-large:hover {
   background-color: #3f507e;
+}
+
+.card.small {
+  border: solid #3f507e 1px;
 }
 
 .txt-color {
