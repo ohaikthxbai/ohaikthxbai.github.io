@@ -16,8 +16,12 @@ nav .brand-logo {
   background-color: #3f507e;
 }
 
+#project-div {
+  background-color: #737aa6;
+}
+
 .card.small {
-  border: solid #3f507e 1px;
+  border: solid #737aa6 1px;
 }
 
 .txt-color {
