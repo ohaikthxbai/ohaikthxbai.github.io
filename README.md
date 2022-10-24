@@ -1,4 +1,4 @@
-# personal
+# ohaikthxbai.github.io
 
 ## Project setup
 ```
