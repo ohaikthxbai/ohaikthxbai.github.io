@@ -5,8 +5,8 @@ import 'primeflex/primeflex.css';
 import 'primevue/resources/themes/tailwind-light/theme.css'; // theme
 import 'primevue/resources/primevue.min.css'; // core css
 import 'primeicons/primeicons.css'; // icons
-// primevue global components
-import Button from 'primevue/button';
+// component imports
+// import Button from 'primevue/button';
 // vue defaults
 import App from './App.vue';
 import router from './router';
@@ -18,5 +18,5 @@ app
 .use(createPinia())
 .use(router)
 .use(PrimeVue)
-.component('Button', Button)
+// .component('Button', Button)
 .mount('#app');
