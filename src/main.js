@@ -14,8 +14,4 @@ import router from './router';
 
 const app = createApp(App);
 
-app.use(createPinia()).use(router).use(PrimeVue);
-
-// app.component('Button', Button);
-
-app.mount('#app');
+app
